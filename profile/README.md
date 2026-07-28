@@ -58,9 +58,4 @@
 
 ### 📈 Статистика организации
 
-<p align="center">
-  <!-- Карточка со статистикой организации -->
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</p>
-
-![GitHub Activity Snake](https://githubusercontent.com)
+![GitHub Activity Snake](../../blob/output/github-contribution-grid-snake.svg)
