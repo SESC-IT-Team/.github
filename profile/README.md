@@ -63,6 +63,8 @@
   <img src="https://vercel.app" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="/SESC-IT-Team/.github/raw/output/github-contribution-grid-snake.svg" alt="GitHub Activity Snake">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
