@@ -6,13 +6,6 @@
 <h1 align="center">🚀 SESC IT TEAM</h1>
 <p align="center"><strong>Создаем full-stack решения для бизнеса от идеи до релиза</strong></p>
 
-<p align="center">
-  <!-- Информационные бэджи ( shields.io ) -->
-  <img src="https://shields.io" alt="Status">
-  <img src="https://shields.io" alt="License">
-  <img src="https://shields.io" alt="Stage">
-</p>
-
 ---
 
 ### 💡 О нас
