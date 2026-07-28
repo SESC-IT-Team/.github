@@ -17,10 +17,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      # Используем обновленный плагин, который поддерживает организации
-      - uses: a-scie/snake-action@v2.2.0
+      - uses: Platane/snk@v3
+        id: snake-gif
         with:
-          github_user_name: SESC-IT-Team
+          # Системная переменная, которая сама подставит имя SESC-IT-Team на уровне API
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
