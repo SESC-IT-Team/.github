@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Большой баннер или логотип по центру -->
-  <img src="https://github.com/user-attachments/assets/576b7065-2e05-48f1-86cb-581143e2ab7c" alt="Startup Banner" width="800">
+  <img src="https://github.com/user-attachments/assets/c1d22e9e-9a63-4880-93bf-328e4b0afb82" alt="Startup Banner" width="800">
 </p>
 
 <h1 align="center">🚀 SESC IT TEAM</h1>
