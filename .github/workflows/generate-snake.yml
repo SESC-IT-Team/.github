@@ -20,8 +20,8 @@ jobs:
       - uses: Platane/snk@v3
         id: snake-gif
         with:
-          # Системная переменная, которая сама подставит имя SESC-IT-Team на уровне API
-          github_user_name: ${{ github.repository_owner }}
+          # ВАЖНО: Впишите сюда свой ЛИЧНЫЙ ник на GitHub (например, suziura2000)
+          github_user_name: topjura3000
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
