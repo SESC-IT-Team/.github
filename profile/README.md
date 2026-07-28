@@ -63,8 +63,6 @@
   <img src="https://vercel.app" alt="GitHub Stats" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="GitHub Activity Snake" src="https://githubusercontent.com">
-</picture>
+<p align="center">
+  <img src="https://githubusercontent.com" alt="GitHub Activity Snake">
+</p>
