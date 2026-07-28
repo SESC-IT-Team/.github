@@ -16,14 +16,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
-        id: snake-gif
+      
+      # Используем обновленный плагин, который поддерживает организации
+      - uses: a-scie/snake-action@v2.2.0
         with:
-          # МЫ УКАЗАЛИ ТОЧНОЕ ИМЯ ВАШЕЙ ОРГАНИЗАЦИИ:
           github_user_name: SESC-IT-Team
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
