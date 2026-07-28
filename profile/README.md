@@ -64,5 +64,5 @@
 </p>
 
 <p align="center">
-  <img src="https://githubusercontent.com" alt="GitHub Activity Snake">
+  <img src="/SESC-IT-Team/.github/raw/output/github-contribution-grid-snake.svg" alt="GitHub Activity Snake">
 </p>
